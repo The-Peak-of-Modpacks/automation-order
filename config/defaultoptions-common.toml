@@ -1,0 +1,8 @@
+#The default difficulty selected for newly created worlds.
+#Allowed Values: PEACEFUL, EASY, NORMAL, HARD
+defaultDifficulty = "NORMAL"
+#Resource pack IDs to have enabled by default on the first run.
+defaultResourcePacks = ["vanilla", "mod_resources", "Moonlight Mods Dynamic Assets", "fabric", "phoenix_chromatic_codes_dynamic_fonts", "phoenix_chronicles_lang", "file/elysiapresents_lootr.zip", "file/LowOnFire_1.20.1.zip", "file/cubic-sun-moon-v1.8.5.zip"]
+#Set to true if the difficulty for new world's should be locked to the specific default. This cannot be unlocked by players without external tools! Probably a bad idea. I don't recommend. Why am I adding this option?
+lockDifficulty = false
+
